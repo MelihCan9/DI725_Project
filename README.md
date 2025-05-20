@@ -6,7 +6,8 @@ This repository has been created to support Phase 1 deliverables of the DI 725
 
 All experiments and training configurations are being tracked publicly on Weights & Biases:
 
-https://wandb.ai/mchamurcu/DI725_Project
+[https://wandb.ai/mchamurcu/DI725_Project](https://wandb.ai/mchamurcu-metu-middle-east-technical-university/paligemma-phase2-benchmark/runs/2vi7tpmi?nw=nwusermchamurcu)
+https://wandb.ai/mchamurcu-metu-middle-east-technical-university/paligemma-phase2-benchmark?nw=nwusermchamurcu
 
 ## License
 
