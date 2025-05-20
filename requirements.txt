@@ -1,0 +1,13 @@
+transformers>=4.38.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+torch>=2.1.0
+datasets>=2.18.0
+pillow
+scikit-learn
+wandb
+nltk
+rouge-score
+spacy
+sentencepiece
+protobuf 
